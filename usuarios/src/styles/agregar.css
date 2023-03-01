@@ -1,0 +1,13 @@
+.agregar{
+    background-color: rgb(61, 122, 59);
+    width: 400px;
+    margin: 20px 10px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 30px;
+}
+.form-label{
+    color: #fff;
+    font-size:25px;
+
+}
